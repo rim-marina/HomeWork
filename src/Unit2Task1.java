@@ -5,13 +5,14 @@ public class Unit2Task1 {
 
     public static void main(String[] args) {
         double distance = 10;
+        double sum = 10;
 
-        for(int i=0; i<7; i++){
+        for(int i=1; i<7; i++){
             double difference = distance * 10 / 100;
             distance += difference;
+            sum += distance;
         }
 
-        double roundOff = Math.round(distance* 100.0) / 100.0;
-        System.out.println(roundOff);
+        System.out.println(sum);
     }
 }

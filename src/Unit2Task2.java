@@ -5,7 +5,7 @@ public class Unit2Task2 {
         int hours = 0;
         int amoebaCounter = 1;
 
-        while (hours<=24){
+        while (hours<24){
             amoebaCounter *=2;
             hours +=3;
         }
