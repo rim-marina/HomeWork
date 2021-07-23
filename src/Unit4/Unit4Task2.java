@@ -1,3 +1,5 @@
+package Unit4;
+
 public class Unit4Task2 {
     //Вывести нечетные элементы находящиеся под главной диагональю.
     public static void main(String[] args) {

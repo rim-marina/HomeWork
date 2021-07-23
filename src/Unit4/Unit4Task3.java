@@ -1,3 +1,5 @@
+package Unit4;
+
 public class Unit4Task3 {
     //Проверить произведение элементов какой диагонали больше.
     public static void main(String[] args) {

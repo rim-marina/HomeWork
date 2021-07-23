@@ -1,3 +1,5 @@
+package Unit4;
+
 public class Unit4Task4 {
     //Посчитать сумму четных элементов стоящих над побочной диагональю.
     public static void main(String[] args) {
